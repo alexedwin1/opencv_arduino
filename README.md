@@ -4,3 +4,6 @@ Enviando una "h" por medio del puerto serial a Arduino para encender en LED.
 
 El código en Arduino recibe la señal y al detectar la "h", enciende el LED.
 
+## Esta es una prueba
+
+Uso de git
