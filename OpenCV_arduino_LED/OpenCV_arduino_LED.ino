@@ -2,7 +2,6 @@
   Programa para Arduino: este programa enciende el LED 13 cuando
   se recibe el carácter 'h' por serial, y lo apaga si recibe otro.
  
-  Escrito por Pablo Becerra y Glare.
 */
  
 //Se define el pin del LED:
